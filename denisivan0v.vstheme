@@ -5556,7 +5556,7 @@
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
